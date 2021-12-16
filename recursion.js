@@ -1,7 +1,7 @@
 const foo = () => {
-    var n = 1;       // initial value
+    var n = 1;
     console.log(n); 
-    foo()            // recursion loop
+    foo()
 }
 
-foo()                // calling the function
+foo()
